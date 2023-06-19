@@ -945,7 +945,11 @@ A Java virtual machine (JVM) is a process virtual machine that can execute Java 
    * in multi-threading, how can we ensure that a resource isn't used by multiple threads simultaneously
  
  * what's the diference between an array and Vector
-
+* HttpServletResponse
+* FilterChain
+* ResponseEntity
+* how to specify which endpoints don't require user authentication
+* how to implement different roles in spring boot aka authorization
  * what is multi-threading
  * what data structures are fifos
  * what data structures are lifos
@@ -956,7 +960,7 @@ A Java virtual machine (JVM) is a process virtual machine that can execute Java 
  * in a linked list - what is the pointer initialized to
  * what is WebSecurityConfig
 * how do you make a copy of a Java object
- 
+ * use cases for enums
  * what's the benefit of using inheritance
  
 * what's the difference between a stack and a queue
@@ -979,3 +983,38 @@ equals() is used to compare the contents of two string objects and returns true 
 * what's the best approach to use if you want to persist data for future use
 * what is a local class
 * what is the base class of all exception classes
+* bearer token
+*  @Builder form lombok
+* @Data from lombok
+* @AllArgsConstructor from lombok
+* IOException
+* ServletException
+* JWT filter
+* @EnableWebSecurity
+* HttpHeaders class
+* HttpSecurity
+* csrf() method
+* sessionManagement() method
+* SecurityFilterchain
+* AuthenticationEntryPoint interface
+* OncePerRequestFilter interface
+* extends vs implements
+* refresh token
+* standard JPA vs Spring Data JPA
+* derived queries
+* JDBC vs JPA
+* Entitymanagerfactory
+* what is the persistence context
+* entityManager
+* Persistence 
+* Query
+* what is CrudRepository
+* what is JpaRepositry
+* what does JpaRepository extend
+* custom queries - JPA
+* what is jpql
+* what does @Transaction() decorator in an entity do
+* how do modify names of tables created in spring boot
+* waht is flush()
+* what is EntityTransaction
+* what are named parameters
