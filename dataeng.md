@@ -8,13 +8,13 @@
 * what is MapReduce
 * what is batch processing
 * what is pyspark
-* what are the five Vs
+* what are the five Vs of big data
 * what are the phases of MapReduce
 * what is a node
 * what is a reducer
 * what is a data mart
 * what is ELT
-* what is ELT
+* what is ETL
 * what is a data silo
 * pros of data warehouse
 * cons of data warehouse
@@ -33,3 +33,25 @@
 * what is zookeepr
 * what is pig
 * what is the purpose of a resource manager
+* how do prevent a data lake from becoming a data swamp
+* which pyspark method is used to load data from a file (rdd)
+* what does rdd stand for
+* how do you create an rdd from a list
+* what is flatMap()  (rdd)
+* what rdd pyspark method can be used to transform each entry 
+* why can't print be used by itself
+* what is clustered computing
+* what is parallel computing 
+* what is distributed computing
+* what is real-time processing
+* what is batch processing
+* what are the main ways of ingesting data
+* what do dataframes allow us to do that rdds cannot
+* what is the purpose of a lambda in pyspark (rdd)
+* what is the purpose of reduceByKey()
+* * what does filter() do pyspark (rdd)
+* what is the entry point to Spark
+* what is the purpose of having an entry point in spark
+* what represents the entry point to Spark functionality
+* where does the SparkContext get initiated
+* how might you find the number of times that each word in a file occurs
