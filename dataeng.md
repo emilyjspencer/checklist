@@ -61,6 +61,7 @@
 * what is a node
 * what are lambdas often used with
 * What is SparkContext
+* what is lazy evaluation in RDDs[]
 * what is data virtualization
 * differences between data migration and data integration
 * what are some data cleansing techniques
@@ -68,3 +69,9 @@
 * what is a partition in Spark
 * are RDDs immutable or mutable
 * what does getNumPartitions() do
+ * what are the two different types of operations in PySpark
+* what might be a use case for using flatMap() method of pyspark (rdd)
+* what is the difference between map() and flatMap() (rdd)
+* what does union() do
+* what is meant by lazy evaluation
+* what are the four actions()
