@@ -75,3 +75,17 @@
 * what does union() do
 * what is meant by lazy evaluation
 * what are the four actions()
+* what is meant by pair RDDs
+* what does groupByKey() do
+* what does sortByKey() do
+* what does reducebyKey() do
+* what does join() do
+* inner join
+* left outer join
+* right inner join
+* what does reduce() do
+* what does saveAsTextFile() do
+* what does countByKey() action do
+* what does collectAsMap() action to 
+* actions vs transformations
+
