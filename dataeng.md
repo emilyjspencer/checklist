@@ -55,3 +55,16 @@
 * what represents the entry point to Spark functionality
 * where does the SparkContext get initiated
 * how might you find the number of times that each word in a file occurs
+* how do we create RDDs
+* why are RDDs called RDDs - what are their characteristics
+* what is a cluster
+* what is a node
+* what are lambdas often used with
+* What is SparkContext
+* what is data virtualization
+* differences between data migration and data integration
+* what are some data cleansing techniques
+* what is data partitioning
+* what is a partition in Spark
+* are RDDs immutable or mutable
+* what does getNumPartitions() do
