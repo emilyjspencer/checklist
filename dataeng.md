@@ -6,6 +6,7 @@
 * what is meant by big data
 * what is Yarn
 * what is MapReduce
+* what is HDFS
 * what is batch processing
 * what is pyspark
 * what are the five Vs of big data
@@ -19,6 +20,7 @@
 * pros of data warehouse
 * cons of data warehouse
 * pros of data lake
+* what are the two main frameworks for data processing
 * cons of data lakes
 * what is meant by commodity hardware
 * how do data lakes fit into the existing data architecture
@@ -88,4 +90,11 @@
 * what does countByKey() action do
 * what does collectAsMap() action to 
 * actions vs transformations
+* what made Hadoop popular - two features
+* in which situations does batch processing work well
+* what is list comprehension
+* sortBy() vs sortByKey()
+* how to sort a regular RDD in descending order
+* how to sort a regular RDD in ascending order
+
 
