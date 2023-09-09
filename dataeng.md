@@ -46,6 +46,7 @@
 * what is parallel computing 
 * what is distributed computing
 * what is real-time processing
+* how do you create an RDD from a data source
 * what is batch processing
 * what are the main ways of ingesting data
 * what do dataframes allow us to do that rdds cannot
@@ -96,5 +97,45 @@
 * sortBy() vs sortByKey()
 * how to sort a regular RDD in descending order
 * how to sort a regular RDD in ascending order
-
-
+* how to create a DataFrame from an RDD
+* how do you create a DataFrame from a data source csv file
+* how do you create a DataFrame from a .txt file
+* how do you add a column
+* what is one sorting method
+* what is another sorting method
+* these methods do what is seen typically in all programming languages where strings are sorted alphabetically, if numbers are strings they won't be sorted properly do need to be cast
+* how to remove duplicate values from DFs
+* how to group by a key
+* how can you view the schema of a DataFram
+* how can you get a summary of the data
+* how can you view the data in a DataFrame - a couple of methods
+* what does columns do
+* how do you rename a column in a DF
+* how do you extract a column or columns of a DF
+* how to show the first ten rows
+* what might data cleaning involve
+* which method can be used to execute an SQL query
+* can sql queries be run directly against a DF
+* what is the purpose of createOrReplaceTempView()
+* what is toPandas()
+* what is pyspark_dist_explore
+* what is HandySparkToPandas()
+* what are the methods that are available within pyspark_dist_explore
+* what are the benefits of converting a regular DF to a Pandas DF
+* is it a good idea to use toPandas() when working with large volumes of data
+* what are some main differences between Pandas dataframes and regular dataframes
+* are Pandas dataframes mutable or immutable
+* are regular dataframes mutable or immutable
+* how do you convert a regular DF to a HandySpark DF
+* how do we alias columns in DFs
+* what does forEach() do
+* what does forEachPartition() do
+* what does distinct() do
+* what method can be used to type cast columns aside from cast()
+* how do you delete a column in a DF
+* how do you remove null values/remove rows with null values
+* how do you replace null values with a default value
+* how do you replace values in DFs
+* what does randomSplit() do
+* what does sample() do
+* which is fast Hadoop MapReduce or Spark
